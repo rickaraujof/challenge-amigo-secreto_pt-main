@@ -1,6 +1,6 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 
-O desafio apresentado a seguir é um projeto que ajuda na elaboração de um jogo de "Amigo Secreto". O projeto consiste em um site, onde é possível colocar o nome dos participantes do jogo no quadro "Digite um Nome" e, depois de digitado, adicionar o nome no botão "Adicionar".
+O desafio apresentado a seguir é um projeto que ajuda na elaboração de um jogo de "Amigo Secreto". O projeto consiste em um site onde é possível colocar o nome dos participantes do jogo no quadro "Digite um Nome" e, depois de digitado, adicionar o nome no botão "Adicionar".
 
 <h2 align="center">  <img width="500" height="300" alt="image" ![Instrução para adicionar nomes] src="https://github.com/user-attachments/assets/3748da1f-5707-43f2-8c97-77af60ecc1d0" /> 
 
